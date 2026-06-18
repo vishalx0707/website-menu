@@ -1,6 +1,8 @@
-# High-End SaaS Web Design — Reference Links (June 2026)
+# Web Design Menu — Style References (June 2026)
 
-Screenshots are in the `shots/` folder. Open **index.html** for the full visual gallery.
+A menu of design styles to choose from. **These are existing websites shown as references — not our work.** Pick the style/taste that fits, and we build yours to match.
+
+Screenshots are in the `shots/` folder. Open **index.html** for the full visual menu.
 
 ## ① AI Search & SEO (GEO/AEO) — most relevant to the project
 - Profound — https://www.tryprofound.com
